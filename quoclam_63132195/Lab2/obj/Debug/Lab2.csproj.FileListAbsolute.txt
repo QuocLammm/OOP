@@ -1,0 +1,16 @@
+D:\HĐT\quoclam_63132195\Lab2\bin\Debug\Lab2.exe.config
+D:\HĐT\quoclam_63132195\Lab2\bin\Debug\Lab2.exe
+D:\HĐT\quoclam_63132195\Lab2\bin\Debug\Lab2.pdb
+D:\HĐT\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\Lab2\obj\Debug\Lab2.exe
+D:\HĐT\quoclam_63132195\Lab2\obj\Debug\Lab2.pdb
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\bin\Debug\Lab2.exe.config
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\bin\Debug\Lab2.exe
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\bin\Debug\Lab2.pdb
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\obj\Debug\Lab2.exe
+E:\HK2_2023\HĐT_HK2_2023\quoclam_63132195\Lab2\obj\Debug\Lab2.pdb

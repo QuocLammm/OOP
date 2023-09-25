@@ -1,0 +1,8 @@
+E:\HĐT\quoclam_63132195\textthi\bin\Debug\textthi.exe.config
+E:\HĐT\quoclam_63132195\textthi\bin\Debug\textthi.exe
+E:\HĐT\quoclam_63132195\textthi\bin\Debug\textthi.pdb
+E:\HĐT\quoclam_63132195\textthi\obj\Debug\textthi.csproj.AssemblyReference.cache
+E:\HĐT\quoclam_63132195\textthi\obj\Debug\textthi.csproj.SuggestedBindingRedirects.cache
+E:\HĐT\quoclam_63132195\textthi\obj\Debug\textthi.csproj.CoreCompileInputs.cache
+E:\HĐT\quoclam_63132195\textthi\obj\Debug\textthi.exe
+E:\HĐT\quoclam_63132195\textthi\obj\Debug\textthi.pdb

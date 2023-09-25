@@ -1,0 +1,8 @@
+D:\HĐT\quoclam_63132195\lab3\bin\Debug\lab3.exe.config
+D:\HĐT\quoclam_63132195\lab3\bin\Debug\lab3.exe
+D:\HĐT\quoclam_63132195\lab3\bin\Debug\lab3.pdb
+D:\HĐT\quoclam_63132195\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\lab3\obj\Debug\lab3.exe
+D:\HĐT\quoclam_63132195\lab3\obj\Debug\lab3.pdb

@@ -1,0 +1,8 @@
+E:\HĐT\quoclam_63132195\textthibai2\bin\Debug\textthibai2.exe.config
+E:\HĐT\quoclam_63132195\textthibai2\bin\Debug\textthibai2.exe
+E:\HĐT\quoclam_63132195\textthibai2\bin\Debug\textthibai2.pdb
+E:\HĐT\quoclam_63132195\textthibai2\obj\Debug\textthibai2.csproj.AssemblyReference.cache
+E:\HĐT\quoclam_63132195\textthibai2\obj\Debug\textthibai2.csproj.SuggestedBindingRedirects.cache
+E:\HĐT\quoclam_63132195\textthibai2\obj\Debug\textthibai2.csproj.CoreCompileInputs.cache
+E:\HĐT\quoclam_63132195\textthibai2\obj\Debug\textthibai2.exe
+E:\HĐT\quoclam_63132195\textthibai2\obj\Debug\textthibai2.pdb

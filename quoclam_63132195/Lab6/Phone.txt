@@ -1,0 +1,4 @@
+Iphone001;Iphone 14;125000;E:\\HĐT\\quoclam_63132195\\Lab6\\Image\\do.png
+Iphone002;Iphone;550000;E:\\HĐT\\quoclam_63132195\\Lab6\\Image\\ip1.png
+ss001;SamSung;350000;E:\\HĐT\\quoclam_63132195\\Lab6\\Image\\ss.png
+op001;Oppo;256000;E:\\HĐT\\quoclam_63132195\\Lab6\\Image\\op.png

@@ -1,0 +1,11 @@
+D:\HĐT\quoclam_63132195\TextForm\bin\Debug\TextForm.exe.config
+D:\HĐT\quoclam_63132195\TextForm\bin\Debug\TextForm.exe
+D:\HĐT\quoclam_63132195\TextForm\bin\Debug\TextForm.pdb
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.Form1.resources
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.csproj.GenerateResource.cache
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.exe
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.pdb
+D:\HĐT\quoclam_63132195\TextForm\obj\Debug\TextForm.login.resources

@@ -1,0 +1,8 @@
+D:\HĐT\quoclam_63132195\ThiGK\bin\Debug\ThiGK.exe.config
+D:\HĐT\quoclam_63132195\ThiGK\bin\Debug\ThiGK.exe
+D:\HĐT\quoclam_63132195\ThiGK\bin\Debug\ThiGK.pdb
+D:\HĐT\quoclam_63132195\ThiGK\obj\Debug\ThiGK.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\ThiGK\obj\Debug\ThiGK.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\ThiGK\obj\Debug\ThiGK.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\ThiGK\obj\Debug\ThiGK.exe
+D:\HĐT\quoclam_63132195\ThiGK\obj\Debug\ThiGK.pdb

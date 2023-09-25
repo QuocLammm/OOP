@@ -1,0 +1,8 @@
+D:\HĐT\quoclam_63132195\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\Lab5\bin\Debug\Lab5.exe.config
+D:\HĐT\quoclam_63132195\Lab5\bin\Debug\Lab5.exe
+D:\HĐT\quoclam_63132195\Lab5\bin\Debug\Lab5.pdb
+D:\HĐT\quoclam_63132195\Lab5\obj\Debug\Lab5.exe
+D:\HĐT\quoclam_63132195\Lab5\obj\Debug\Lab5.pdb

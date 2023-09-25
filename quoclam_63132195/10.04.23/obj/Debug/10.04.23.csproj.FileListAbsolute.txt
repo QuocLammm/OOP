@@ -1,0 +1,8 @@
+D:\HĐT\quoclam_63132195\10.04.23\bin\Debug\10.04.23.exe.config
+D:\HĐT\quoclam_63132195\10.04.23\bin\Debug\10.04.23.exe
+D:\HĐT\quoclam_63132195\10.04.23\bin\Debug\10.04.23.pdb
+D:\HĐT\quoclam_63132195\10.04.23\obj\Debug\10.04.23.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\10.04.23\obj\Debug\10.04.23.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\10.04.23\obj\Debug\10.04.23.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\10.04.23\obj\Debug\10.04.23.exe
+D:\HĐT\quoclam_63132195\10.04.23\obj\Debug\10.04.23.pdb

@@ -1,0 +1,8 @@
+D:\HĐT\quoclam_63132195\Text\bin\Debug\Text.exe.config
+D:\HĐT\quoclam_63132195\Text\bin\Debug\Text.exe
+D:\HĐT\quoclam_63132195\Text\bin\Debug\Text.pdb
+D:\HĐT\quoclam_63132195\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+D:\HĐT\quoclam_63132195\Text\obj\Debug\Text.csproj.SuggestedBindingRedirects.cache
+D:\HĐT\quoclam_63132195\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+D:\HĐT\quoclam_63132195\Text\obj\Debug\Text.exe
+D:\HĐT\quoclam_63132195\Text\obj\Debug\Text.pdb
